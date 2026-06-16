@@ -1,0 +1,11 @@
+!DOCTYPE html>
+<html>
+<head>
+  <title>Learn SEO Practically</title>
+  <meta name="description" content="I am learning SEO and cloud practically">
+</head>
+<body>
+  <h1>Welcome to My SEO Practice Website</h1>
+  <p>This website is hosted on cloud.</p>
+</body>
+</html>
